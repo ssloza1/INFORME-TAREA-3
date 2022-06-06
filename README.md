@@ -7,9 +7,12 @@
 ## 1. OBJETIVO:
 #### 1.1 OBJETIVO GENERAL: 
 
+•	Describir y desarrollar los circuitos en serie y paralelo partiendo de su estructura y basándose en las características para comprensión del tema basado en los circuitos eléctricos mediante información teórica y resolución de ejercicios. 
 
 #### 1.2 OBJETIVO ESPECIFICOS:
 
+•	Analizar y diseñar circuitos en serie para lo cual permitirá describir de mejor manera sus componentes y su funcionalidad partiendo de información proporcionada por el texto de Floyd.
+•	Analizar y desarrollar circuitos en paralelo para lo cual permitirá describir de mejor manera como se componen los circuitos en paralelo mediante el uso de el texto de trabajo y ejercicios que expliquen su funcionalidad. 
 
 ## 2. MARCO TEORICO
 
@@ -445,6 +448,8 @@ No presenta problemas.
 
 ## 5.CONCLUSIONES
 
+•	Para diseñar un circuito en serie hay que tener en cuenta que es una de las formas más simples de entender los circuitos eléctricos partiendo de sus características podemos determinar que los circuitos en serie por lo general tienen sus valores iguales y eso facilita sus cálculos y su uso en componentes eléctricos.
+•	Para comprender los circuitos en paralelos se tiene que partir que en que los circuitos en paralelo por lo general sus valores varían y se debe tomar en cuenta mucho la ley que plantea Kirchhoff por lo tanto se debe tomar mucho en cuenta los cálculos que este se refiere.
 
 ## BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
