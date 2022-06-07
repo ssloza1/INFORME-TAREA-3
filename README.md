@@ -51,8 +51,8 @@
 
 ##### 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 
-![image](https://user-images.githubusercontent.com/105671763/171294470-c0bba881-0c6e-4da9-90a1-ef7d4d6eda1f.png)
-![image](https://user-images.githubusercontent.com/105671763/171294666-1acdbbdd-2eaf-4e7e-b10f-58875e01ceb6.png)
+!![image](https://user-images.githubusercontent.com/105320981/172265568-2c782fdb-9b31-4ff4-ab01-acc625d35f66.png)
+![image](https://user-images.githubusercontent.com/105320981/172265608-c0ea75b9-ba72-4b40-af98-ab3ba7099e91.png)
 
 ##### *SECCIÓN 5-3 	Resistencia total en serie*
 
@@ -231,11 +231,12 @@
 La corriente que va del circuto A a B.
 
 ##### 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
-![image](https://user-images.githubusercontent.com/105671763/170888167-2dbe31dd-85d0-4dbf-ab39-ca6c5e452e9e.png)
+![image](https://user-images.githubusercontent.com/105320981/172265733-d68d2cfa-a30f-4449-b55e-0097be065ece.png)
+
 No presenta problemas.
 
 ##### 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
-![image](https://user-images.githubusercontent.com/105671763/170888169-e092a589-6649-461e-8579-3894648cebd1.png)
+![image](https://user-images.githubusercontent.com/105320981/172265801-2ebca9ee-8709-4b2e-824e-bf3c14e6ec14.png)
 
 	(a) Se dio un corto.
 	(b) Para localizar un corto, se mide el voltaje a través de cada resistor hasta que se tiene una lectura de 0 V.
@@ -248,7 +249,8 @@ No presenta problemas.
 ##### *SECCIÓN 6–1 	Resistores en paralelo*
 
 ##### 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
-![image](https://user-images.githubusercontent.com/105671763/170888645-d5f9be8b-8b3d-4339-9805-269f7b5cc08a.png)
+![image](https://user-images.githubusercontent.com/105320981/172266056-50d7d199-cd38-4d1a-83bb-a5f04821b732.png)
+
 	Se encuentran en paralelo.
 	
 ##### *SECCIÓN 6–2 	Voltaje en un circuito en paralelo*
@@ -434,7 +436,7 @@ No presenta problemas.
 	El voltaje disminuyo.
 
 ##### 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
-![image](https://user-images.githubusercontent.com/105671763/170889452-c2035017-ef94-47fd-b80d-30bd0c80e217.png)
+![image](https://user-images.githubusercontent.com/105320981/172266185-201e3012-bbfa-44e8-b083-d7828e97bef3.png)
 
 	(a) 1 y 2 
 	    No tiene conexión
